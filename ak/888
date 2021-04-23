@@ -1,1 +1,20 @@
-时美豪
+<bn>内容<bn>
+//远程公告内容
+
+<kl>内容<kl>
+//是否需要输入密码(kill)   kill=true 需要  ||| kill=false 不需要
+
+<ml>密码<ml>
+//远程密码设置
+
+<gi>qq号?<gi>
+//qq号
+
+<rtt>qq群<rtt>
+//群号
+
+<yt><yt>
+//是否强制更新(lp)   lp=true 需要  ||| lp=false 不需要
+
+<lkl>链接<lkl>
+//更新链接
